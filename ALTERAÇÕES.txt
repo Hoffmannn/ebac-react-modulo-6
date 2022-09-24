@@ -1,0 +1,7 @@
+Melhorias a serem realizadas:
+
+- Separar a calculadora entre mais componentes:
+ Tela (Screen)
+ Botão (Button)
+
+- Organizar novos componentes em suas respectivas pastas.
