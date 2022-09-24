@@ -5,3 +5,7 @@ Melhorias a serem realizadas:
  Botão (Button)
 
 - Organizar novos componentes em suas respectivas pastas.
+
+
+Mudanças de última hora:
+ Descontrução das props no componente Calculator
